@@ -1,0 +1,21 @@
+{
+  "normal": [
+    "Favourite song batao",
+    "Underrated song batao",
+    "Guess release year",
+    "Sing or hum 10 seconds",
+    "No-skip song batao",
+    "Top 3 songs rank karo",
+    "Best collab song batao",
+    "Song that got you into this artist",
+    "Lyrics yaad hai? Recite karo",
+    "Music video ka favourite scene"
+  ],
+  "danger": [
+    "Overrated song?",
+    "Worst song by this artist?",
+    "Song you secretly hate",
+    "Skip karne wala song?",
+    "Most overplayed track?"
+  ]
+}
