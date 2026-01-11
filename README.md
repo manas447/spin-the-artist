@@ -87,4 +87,11 @@ The system rewards **music taste and depth**, not just recall.
 
 
 ## 📂 Project Structure
+src/
+├─ components/ # UI components (wheels, timer, scoreboard)
+├─ data/ # Categories, artists, challenges (JSON)
+├─ utils/ # Game logic utilities
+├─ App.jsx
+├─ main.jsx
+└─ index.css
 
